@@ -1,6 +1,6 @@
 # CMO Studio for Claude Code
 
-Put the app you built with Claude Code online: hosting, a Postgres database, file storage and email from your own domain, in one place. Claude does the work through the CMO Studio MCP server; you approve the deletes. Servers in Norway, free to start, no card.
+Put the app you built with Claude Code online: hosting, a Postgres database, file storage and email from your own domain, in one place. Claude does the work through the CMO Studio MCP server; you approve the deletes. GDPR-ready, free to start, no card.
 
 ## Install
 

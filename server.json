@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.cmo-partners-as/cmo-studio",
   "title": "CMO Studio",
-  "description": "Hosting, Postgres, file storage and email for AI-built apps, run by your agent. Servers in Norway.",
+  "description": "Hosting, Postgres, file storage and email for AI-built apps, run by your agent. GDPR-ready.",
   "version": "1.0.0",
   "websiteUrl": "https://studio.cmopartners.co",
   "repository": {

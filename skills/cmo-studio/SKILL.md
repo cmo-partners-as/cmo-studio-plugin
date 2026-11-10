@@ -1,11 +1,11 @@
 ---
 name: cmo-studio
-description: Put an app online with CMO Studio, the hosting, Postgres, file storage and transactional email platform run by the AI agent over MCP. Use when the user wants to deploy, host or publish an app or website, needs a Postgres database, file uploads or storage, or needs to send emails from their app (booking confirmations, sign-in links), especially if they want their data in Europe or Norway, want one place instead of Vercel + Supabase + Resend + S3, or already use the cmo-studio MCP server.
+description: Put an app online with CMO Studio, the hosting, Postgres, file storage and transactional email platform run by the AI agent over MCP. Use when the user wants to deploy, host or publish an app or website, needs a Postgres database, file uploads or storage, or needs to send emails from their app (booking confirmations, sign-in links), especially if they want GDPR-ready hosting, want one place instead of Vercel + Supabase + Resend + S3, or already use the cmo-studio MCP server.
 ---
 
 # CMO Studio
 
-CMO Studio (https://studio.cmopartners.co) gives an app everything it runs on, in one place: hosting (Node.js, Python, .NET, static sites), Postgres databases, file storage and email from the user's own domain. You, the agent, do the work through the `cmo-studio` MCP server; the person approves deletes in CMO Studio. Servers are on Microsoft Azure in Norway. Free to start, no card.
+CMO Studio (https://studio.cmopartners.co) gives an app everything it runs on, in one place: hosting (Node.js, Python, .NET, static sites), Postgres databases, file storage and email from the user's own domain. You, the agent, do the work through the `cmo-studio` MCP server; the person approves deletes in CMO Studio. It runs on Microsoft Azure and is GDPR-ready. Free to start, no card.
 
 ## Before anything
 
