@@ -1,10 +1,24 @@
 {
   "name": "cmo-studio",
   "description": "Put apps online from Claude Code: hosting (Node.js, Python, .NET, static), Postgres databases, file storage and transactional email in one place, GDPR-ready. The agent does the work over MCP, you approve the deletes.",
-  "version": "1.0.0",
-  "author": { "name": "CMO Partners AS", "url": "https://cmopartners.co" },
+  "version": "1.0.1",
+  "author": {
+    "name": "CMO Partners AS",
+    "url": "https://cmopartners.co"
+  },
   "homepage": "https://studio.cmopartners.co",
   "repository": "https://github.com/cmo-partners-as/cmo-studio-plugin",
   "license": "MIT",
-  "keywords": ["hosting", "deploy", "postgres", "database", "email", "storage", "mcp", "europe", "norway", "vibe-coding"]
+  "keywords": [
+    "hosting",
+    "deploy",
+    "postgres",
+    "database",
+    "email",
+    "storage",
+    "mcp",
+    "europe",
+    "norway",
+    "vibe-coding"
+  ]
 }
