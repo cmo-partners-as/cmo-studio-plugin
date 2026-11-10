@@ -1,0 +1,8 @@
+{
+  "name": "cmo-partners",
+  "owner": { "name": "CMO Partners AS", "url": "https://cmopartners.co" },
+  "description": "CMO Partners tools for Claude Code",
+  "plugins": [
+    { "name": "cmo-studio", "source": "./", "description": "Hosting, Postgres, file storage and email for apps you build with AI, run over MCP." }
+  ]
+}
