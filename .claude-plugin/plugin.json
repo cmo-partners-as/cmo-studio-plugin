@@ -1,7 +1,7 @@
 {
   "name": "cmo-studio",
   "description": "Put apps online from Claude Code: hosting (Node.js, Python, .NET, static), Postgres databases, file storage and transactional email in one place, GDPR-ready. The agent does the work over MCP, you approve the deletes.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "CMO Partners AS",
     "url": "https://cmopartners.co"
