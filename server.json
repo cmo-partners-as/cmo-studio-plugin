@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.cmo-partners-as/cmo-studio",
-  "title": "CMO Studio",
-  "description": "Hosting, Postgres, file storage and email for AI-built apps, run by your agent. GDPR-ready.",
-  "version": "1.0.0",
+  "title": "CMO Studio: deploy and host AI-built apps",
+  "description": "Deploy apps from Claude Code or Cursor: hosting, Postgres, email, files. Vercel+Supabase alternative.",
+  "version": "1.0.1",
   "websiteUrl": "https://studio.cmopartners.co",
   "repository": {
     "url": "https://github.com/cmo-partners-as/cmo-studio-plugin",
